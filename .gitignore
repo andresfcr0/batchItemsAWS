@@ -1,1 +1,9 @@
 package-lock.json
+node_modules
+dist
+.terraform
+files
+terraform.tfstate.backup
+.terraform.lock.hcl
+m3.tfplan
+terraform.tfstate

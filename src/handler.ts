@@ -1,13 +1,6 @@
 import { APIGatewayProxyEvent, APIGatewayProxyResult } from "aws-lambda";
 import { readFileSync } from "fs";
-import {
-  extractValues,
-  validUUID,
-  JWT,
-  DAO,
-  errorResponse,
-  successResponse,
-} from "./utils";
+import { DAO, errorResponse, successResponse } from "./utils";
 
 export async function handler(
   event: APIGatewayProxyEvent
@@ -17,7 +10,7 @@ export async function handler(
 
     const file = readFileSync("cups_codes.json", "utf8");
     const codes = JSON.parse(file);
-    await dao.createPrediction(codes);
+    await dao.upload(codes);
 
     return successResponse({ ok: "ok" });
   } catch (error: any) {
