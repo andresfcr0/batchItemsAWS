@@ -6,7 +6,7 @@ import {
 } from "@aws-sdk/client-dynamodb";
 
 enum CUPS {
-  table_name = "DEV-B-MEDICAL-Calc-CupsCodes",
+  table_name = "MEDICAL_CUPS_CODES",
 }
 
 const headers = {
