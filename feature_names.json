@@ -1,0 +1,996 @@
+[
+  {
+    "category": {
+      "S": "profesion"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "OTHER HEALTH-RELATED AREAS"
+            },
+            "1": {
+              "S": "OTHER NON-HEALTH RELATED AREAS"
+            },
+            "2": {
+              "S": "DOCTOR"
+            },
+            "3": {
+              "S": "NURSE"
+            },
+            "4": {
+              "S": "PHARMACIST"
+            },
+            "5": {
+              "S": "PSYCHOLOGIST"
+            },
+            "6": {
+              "S": "RESIDENT"
+            },
+            "7": {
+              "S": "RESEARCHER"
+            },
+            "8": {
+              "S": "SPECIALIST"
+            },
+            "9": {
+              "S": "MANAGEMENT AND ADMINISTRATION"
+            },
+            "10": {
+              "S": "ORAL HEALTH PROFESSIONAL"
+            },
+            "11": {
+              "S": "STUDENT"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "OTRAS AREAS RELACIONADAS CON LA SALUD"
+            },
+            "1": {
+              "S": "OTRAS AREAS NO RELACIONADAS CON LA SALUD"
+            },
+            "2": {
+              "S": "DOCTOR"
+            },
+            "3": {
+              "S": "ENFERMERA"
+            },
+            "4": {
+              "S": "FARMACEUTICO"
+            },
+            "5": {
+              "S": "PSICOLOGO"
+            },
+            "6": {
+              "S": "RESIDENTE"
+            },
+            "7": {
+              "S": "INVESTIGADOR"
+            },
+            "8": {
+              "S": "ESPECIALISTA"
+            },
+            "9": {
+              "S": "GESTION Y ADMINISTRACION"
+            },
+            "10": {
+              "S": "PROFESIONAL DE SALUD ORAL"
+            },
+            "11": {
+              "S": "ESTUDIANTE"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "OTHER"
+            },
+            "1": {
+              "S": "CARDIOLOGY"
+            },
+            "2": {
+              "S": "DERMATOLOGY"
+            },
+            "3": {
+              "S": "ENDOCRINOLOGY"
+            },
+            "4": {
+              "S": "GASTROENTEROLOGY"
+            },
+            "5": {
+              "S": "GERIATRICS"
+            },
+            "6": {
+              "S": "GYNECOLOGY"
+            },
+            "7": {
+              "S": "HEMATOLOGY"
+            },
+            "8": {
+              "S": "INFECTOLOGY"
+            },
+            "9": {
+              "S": "NEUROLOGY"
+            },
+            "10": {
+              "S": "ONCOLOGY"
+            },
+            "11": {
+              "S": "PEDIATRICS"
+            },
+            "12": {
+              "S": "PNEUMOLOGY"
+            },
+            "13": {
+              "S": "PSYCHIATRY"
+            },
+            "14": {
+              "S": "RHEUMATOLOGY"
+            },
+            "15": {
+              "S": "UROLOGY"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "OTRO"
+            },
+            "1": {
+              "S": "CARDIOLOGIA"
+            },
+            "2": {
+              "S": "DERMATOLOGIA"
+            },
+            "3": {
+              "S": "ENDOCRINOLOGIA"
+            },
+            "4": {
+              "S": "GASTROENTEROLOGIA"
+            },
+            "5": {
+              "S": "GERIATRIA"
+            },
+            "6": {
+              "S": "GINECOLOGIA"
+            },
+            "7": {
+              "S": "HEMATOLOGIA"
+            },
+            "8": {
+              "S": "INFECTOLOGIA"
+            },
+            "9": {
+              "S": "NEUROLOGIA"
+            },
+            "10": {
+              "S": "ONCOLOGIA"
+            },
+            "11": {
+              "S": "PEDIATRIA"
+            },
+            "12": {
+              "S": "NEUMOLOGIA"
+            },
+            "13": {
+              "S": "PSIQUIATRIA"
+            },
+            "14": {
+              "S": "REUMATOLOGIA"
+            },
+            "15": {
+              "S": "UROLOGIA"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "1": {
+              "S": "Low"
+            },
+            "2": {
+              "S": "Intermediate"
+            },
+            "3": {
+              "S": "High"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "1": {
+              "S": "Bajo"
+            },
+            "2": {
+              "S": "Intermedio"
+            },
+            "3": {
+              "S": "Alto"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "1": {
+              "S": "Grade 1"
+            },
+            "2": {
+              "S": "Grade 2"
+            },
+            "3": {
+              "S": "Grade 3"
+            },
+            "4": {
+              "S": "Grade 4"
+            },
+            "5": {
+              "S": "Grade 5"
+            },
+            "6": {
+              "S": "Not applicable"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "1": {
+              "S": "Grado 1"
+            },
+            "2": {
+              "S": "Grado 2"
+            },
+            "3": {
+              "S": "Grado 3"
+            },
+            "4": {
+              "S": "Grado 4"
+            },
+            "5": {
+              "S": "Grado 5"
+            },
+            "6": {
+              "S": "No aplica"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "Other"
+            },
+            "1": {
+              "S": "Orthopedic"
+            },
+            "2": {
+              "S": "Gynecological Obstetric"
+            },
+            "3": {
+              "S": "Breast"
+            },
+            "4": {
+              "S": "Gastrointestinal"
+            },
+            "5": {
+              "S": "Coloproctology"
+            },
+            "6": {
+              "S": "Hepatobiliary"
+            },
+            "7": {
+              "S": "Urology and Renal"
+            },
+            "8": {
+              "S": "Vascular"
+            },
+            "9": {
+              "S": "Cardiac Surgery"
+            },
+            "10": {
+              "S": "Thoracic Surgery"
+            },
+            "11": {
+              "S": "Head and Neck"
+            },
+            "12": {
+              "S": "Plastic Surgery"
+            },
+            "13": {
+              "S": "Transplant"
+            },
+            "14": {
+              "S": "Neurosurgery"
+            },
+            "15": {
+              "S": "Otorhinolaryngology"
+            },
+            "16": {
+              "S": "Ophthalmology"
+            },
+            "17": {
+              "S": "Abdominal Wall"
+            },
+            "18": {
+              "S": "Soft Tissue"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "Otra"
+            },
+            "1": {
+              "S": "Ortopédico"
+            },
+            "2": {
+              "S": "Ginecológico Obstétrico"
+            },
+            "3": {
+              "S": "Seno"
+            },
+            "4": {
+              "S": "Gastrointestinal"
+            },
+            "5": {
+              "S": "Coloproctología"
+            },
+            "6": {
+              "S": "Hepatobiliar"
+            },
+            "7": {
+              "S": "Urología y Renal"
+            },
+            "8": {
+              "S": "Vascular"
+            },
+            "9": {
+              "S": "Cirugía Cardíaca"
+            },
+            "10": {
+              "S": "Cirugía Torácica"
+            },
+            "11": {
+              "S": "Cabeza y Cuello"
+            },
+            "12": {
+              "S": "Cirugía Plástica"
+            },
+            "13": {
+              "S": "Trasplante"
+            },
+            "14": {
+              "S": "Neurocirugía"
+            },
+            "15": {
+              "S": "Otorrinolaringología"
+            },
+            "16": {
+              "S": "Oftalmología"
+            },
+            "17": {
+              "S": "Pared Abdominal"
+            },
+            "18": {
+              "S": "Tejido blando"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "features"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "edadmintervencion": {
+              "S": "Age"
+            },
+            "asascore": {
+              "S": "ASA Score"
+            },
+            "categoria_unica": {
+              "S": "Surgery Category"
+            },
+            "tabaquismo": {
+              "S": "Tobacco User"
+            },
+            "tipocx": {
+              "S": "CUPS Code"
+            },
+            "dm": {
+              "S": "Diabetes Mellitus"
+            },
+            "tipodeabordajecx": {
+              "S": "Surgical Approach Type"
+            },
+            "complejidadprocedimiento": {
+              "S": "Procedure Complexity"
+            },
+            "epoc": {
+              "S": "Chronic Obstructive Pulmonary Disease"
+            },
+            "hta": {
+              "S": "Hypertension"
+            },
+            "fallacardcron": {
+              "S": "Heart Failure"
+            },
+            "erc": {
+              "S": "Chronic Kidney Disease"
+            },
+            "momntointerven": {
+              "S": "Elective Procedure"
+            },
+            "diagcovid19": {
+              "S": "COVID-19"
+            },
+            "inestabilidadhemodinamica": {
+              "S": "Hemodynamic Instability Symptoms"
+            },
+            "dislipidemia": {
+              "S": "Dyslipidemia"
+            },
+            "transtiroideo": {
+              "S": "Thyroid Disorder"
+            },
+            "afiliacionsistema": {
+              "S": "Health System Affiliation Type"
+            },
+            "arritmiacard": {
+              "S": "Arrhythmia"
+            },
+            "estratosocioecono": {
+              "S": "Socioeconomic Status"
+            },
+            "parocardiacopreoperatorio": {
+              "S": "Pre-Operative Cardiac Arrest"
+            },
+            "sexopte": {
+              "S": "Sex"
+            },
+            "covid19menor2": {
+              "S": "COVID-19 within the last two weeks"
+            },
+            "mtabaco": {
+              "S": "Smoked tobacco in the last 3 months"
+            },
+            "esquemavacu": {
+              "S": "Complete COVID vaccination scheme"
+            },
+            "imc": {
+              "S": "BMI"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "edadmintervencion": {
+              "S": "Edad"
+            },
+            "asascore": {
+              "S": "Puntaje ASA"
+            },
+            "categoria_unica": {
+              "S": "Categoría de la Cirugía"
+            },
+            "tabaquismo": {
+              "S": "Consumidor de Tabaco"
+            },
+            "tipocx": {
+              "S": "Código CUPS"
+            },
+            "dm": {
+              "S": "Diabetes Mellitus"
+            },
+            "tipodeabordajecx": {
+              "S": "Tipo Abordaje Quirúrgico"
+            },
+            "complejidadprocedimiento": {
+              "S": "Complejidad del Procedimiento"
+            },
+            "epoc": {
+              "S": "Enfermedad Pulmonar Obstructiva Crónica"
+            },
+            "hta": {
+              "S": "Hipertensión Arterial"
+            },
+            "fallacardcron": {
+              "S": "Falla Cardiaca"
+            },
+            "erc": {
+              "S": "Enfermedad Renal Crónica"
+            },
+            "momntointerven": {
+              "S": "Procedimiento Electivo"
+            },
+            "diagcovid19": {
+              "S": "COVID-19"
+            },
+            "inestabilidadhemodinamica": {
+              "S": "Síntomas Inestabilidad Hemodinámica"
+            },
+            "dislipidemia": {
+              "S": "Dislipidemia"
+            },
+            "transtiroideo": {
+              "S": "Trastorno Tiroideo"
+            },
+            "afiliacionsistema": {
+              "S": "Tipo de afiliación al sistema de salud"
+            },
+            "arritmiacard": {
+              "S": "Arritmia"
+            },
+            "estratosocioecono": {
+              "S": "Estrato Socioeconómico"
+            },
+            "parocardiacopreoperatorio": {
+              "S": "Paro Cardiaco Pre-Operatorio"
+            },
+            "sexopte": {
+              "S": "Sexo"
+            },
+            "covid19menor2": {
+              "S": "COVID-19 hace menos de dos semanas"
+            },
+            "mtabaco": {
+              "S": "Consumió tabaco en los últimos 3 meses"
+            },
+            "esquemavacu": {
+              "S": "Esquema de vacunación COVID completo"
+            },
+            "imc": {
+              "S": "IMC"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacionsistema"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "None"
+            },
+            "1": {
+              "S": "Contributory"
+            },
+            "2": {
+              "S": "Subsidized"
+            },
+            "3": {
+              "S": "Special"
+            },
+            "4": {
+              "S": "Prepaid"
+            },
+            "5": {
+              "S": "Private"
+            },
+            "6": {
+              "S": "International Insurance"
+            },
+            "7": {
+              "S": "SOAT"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "Ninguno"
+            },
+            "1": {
+              "S": "Contributivo"
+            },
+            "2": {
+              "S": "Subsidiado"
+            },
+            "3": {
+              "S": "Especial"
+            },
+            "4": {
+              "S": "Prepagada"
+            },
+            "5": {
+              "S": "Particular"
+            },
+            "6": {
+              "S": "Seguro internacional"
+            },
+            "7": {
+              "S": "SOAT"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "1": {
+              "S": "Low-Low"
+            },
+            "2": {
+              "S": "Low"
+            },
+            "3": {
+              "S": "Medium-Low"
+            },
+            "4": {
+              "S": "Medium"
+            },
+            "5": {
+              "S": "Medium-High"
+            },
+            "6": {
+              "S": "High"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "1": {
+              "S": "Bajo-Bajo"
+            },
+            "2": {
+              "S": "Bajo"
+            },
+            "3": {
+              "S": "Medio-Bajo"
+            },
+            "4": {
+              "S": "Medio"
+            },
+            "5": {
+              "S": "Medio-Alto"
+            },
+            "6": {
+              "S": "Alto"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "fistula"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "Other"
+            },
+            "1": {
+              "S": "Arteriovenous"
+            },
+            "2": {
+              "S": "Biliary"
+            },
+            "3": {
+              "S": "Gastric"
+            },
+            "4": {
+              "S": "Intestinal"
+            },
+            "5": {
+              "S": "Anal"
+            },
+            "6": {
+              "S": "Colonic"
+            },
+            "7": {
+              "S": "Bladder"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "Otra"
+            },
+            "1": {
+              "S": "Arteriovenosa"
+            },
+            "2": {
+              "S": "Biliar"
+            },
+            "3": {
+              "S": "Gástrica"
+            },
+            "4": {
+              "S": "Intestinal"
+            },
+            "5": {
+              "S": "Anal"
+            },
+            "6": {
+              "S": "Colónica"
+            },
+            "7": {
+              "S": "Vesical"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "itemsYesNo"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "No"
+            },
+            "1": {
+              "S": "Yes"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "No"
+            },
+            "1": {
+              "S": "Sí"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "sexopte"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "Female"
+            },
+            "1": {
+              "S": "Male"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "Mujer"
+            },
+            "1": {
+              "S": "Hombre"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "0": {
+              "S": "Other"
+            },
+            "1": {
+              "S": "Open"
+            },
+            "2": {
+              "S": "Video-assisted"
+            },
+            "3": {
+              "S": "Endovascular"
+            },
+            "4": {
+              "S": "Open/Video-assisted"
+            },
+            "5": {
+              "S": "Open/Endovascular"
+            },
+            "6": {
+              "S": "Robot-assisted"
+            },
+            "7": {
+              "S": "Percutaneous"
+            },
+            "8": {
+              "S": "Intravaginal"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "0": {
+              "S": "Otro"
+            },
+            "1": {
+              "S": "Abierta"
+            },
+            "2": {
+              "S": "Video-asistido"
+            },
+            "3": {
+              "S": "Endovascular"
+            },
+            "4": {
+              "S": "Abierta/video-asistido"
+            },
+            "5": {
+              "S": "Abierta/Endovascular"
+            },
+            "6": {
+              "S": "Asistido por Robot"
+            },
+            "7": {
+              "S": "Percutáneo"
+            },
+            "8": {
+              "S": "Intravaginal"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "rol"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "1": {
+              "S": "Lead Surgeon"
+            },
+            "2": {
+              "S": "Assistant"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "1": {
+              "S": "Cirujano Principal"
+            },
+            "2": {
+              "S": "Ayudante"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "category": {
+      "S": "asascore"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {
+            "1": {
+              "S": "I"
+            },
+            "2": {
+              "S": "II"
+            },
+            "3": {
+              "S": "III"
+            },
+            "4": {
+              "S": "IV"
+            },
+            "5": {
+              "S": "V"
+            },
+            "6": {
+              "S": "VI"
+            },
+            "7": {
+              "S": "E"
+            }
+          }
+        },
+        "es": {
+          "M": {
+            "1": {
+              "S": "I"
+            },
+            "2": {
+              "S": "II"
+            },
+            "3": {
+              "S": "III"
+            },
+            "4": {
+              "S": "IV"
+            },
+            "5": {
+              "S": "V"
+            },
+            "6": {
+              "S": "VI"
+            },
+            "7": {
+              "S": "E"
+            }
+          }
+        }
+      }
+    }
+  }
+]

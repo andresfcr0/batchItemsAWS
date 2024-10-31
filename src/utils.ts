@@ -1,12 +1,15 @@
 import {
   DynamoDB,
-  DynamoDBClient,
   WriteRequest,
   AttributeValue,
 } from "@aws-sdk/client-dynamodb";
 
 enum CUPS {
-  table_name = "MEDICAL_CUPS_CODES",
+  table_name = "DEV-B-MEDICAL-Core-CupsCodes",
+}
+
+enum FeatureNames {
+  table_name = "DEV-B-MEDICAL-Core-FeatureNames",
 }
 
 const headers = {
@@ -18,14 +21,12 @@ const headers = {
 
 // DynamoDB Queries
 export class DAO {
-  private client: DynamoDBClient;
   private service: DynamoDB;
   constructor() {
-    this.client = new DynamoDBClient();
     this.service = new DynamoDB();
   }
 
-  async upload(items: Record<string, AttributeValue>[]) {
+  async uploadCups(items: Record<string, AttributeValue>[]) {
     const puts: WriteRequest[] = items.map((item) => {
       return {
         PutRequest: {
@@ -36,10 +37,10 @@ export class DAO {
 
     let counter = 0;
     let fromvalue = 0;
+    console.log({ counter, fromvalue, toUpload: puts.length });
     while (counter < puts.length) {
       fromvalue = counter;
       counter += 25;
-      console.log({ counter, fromvalue });
       for (let index = fromvalue; index < counter; index++) {
         const value = puts.slice(fromvalue, counter);
         await this.service.batchWriteItem({
@@ -49,6 +50,34 @@ export class DAO {
         });
       }
     }
+    console.log({ counter, fromvalue, toUpload: puts.length });
+  }
+
+  async uploadFeatures(items: Record<string, AttributeValue>[]) {
+    const puts: WriteRequest[] = items.map((item) => {
+      return {
+        PutRequest: {
+          Item: item,
+        },
+      };
+    });
+
+    let counter = 0;
+    let fromvalue = 0;
+    console.log({ counter, fromvalue, toUpload: puts.length });
+    while (counter < puts.length) {
+      fromvalue = counter;
+      counter += 25;
+      for (let index = fromvalue; index < counter; index++) {
+        const value = puts.slice(fromvalue, counter);
+        await this.service.batchWriteItem({
+          RequestItems: {
+            [FeatureNames.table_name]: value,
+          },
+        });
+      }
+    }
+    console.log({ counter, fromvalue, toUpload: puts.length });
   }
 }
 

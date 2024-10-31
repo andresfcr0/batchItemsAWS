@@ -8,9 +8,14 @@ export async function handler(
   try {
     const dao = new DAO();
 
-    const file = readFileSync("cups_codes.json", "utf8");
-    const codes = JSON.parse(file);
-    await dao.upload(codes);
+    const cups = readFileSync("cups_codes.json", "utf8");
+    const codes = JSON.parse(cups);
+
+    const feature = readFileSync("feature_names.json", "utf8");
+    const names = JSON.parse(feature);
+
+    await dao.uploadFeatures(names);
+    await dao.uploadCups(codes);
 
     return successResponse({ ok: "ok" });
   } catch (error: any) {

@@ -8,7 +8,6 @@ resource "aws_iam_role" "iam_role_lambda" {
         Principal = {
           Service = [
             "lambda.amazonaws.com",
-            "apigateway.amazonaws.com",
             "dynamodb.amazonaws.com",
           ]
         },
@@ -27,7 +26,6 @@ resource "aws_iam_policy" "iam_policy_lambda" {
       {
         Action   = [
           "lambda:*",
-          "apigateway:*",
           "dynamodb:*",
         ]
         Effect   = "Allow"

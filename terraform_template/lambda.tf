@@ -8,10 +8,10 @@ resource "aws_lambda_function" "CUPS_CODES_UPLOAD" {
   runtime          = "nodejs16.x"
 }
 
-resource "aws_lambda_permission" "cups_codes_permission" {
-  statement_id  = "AllowExecutionFromAPIGateway"
-  action        = "lambda:InvokeFunction"
-  function_name = aws_lambda_function.CUPS_CODES_UPLOAD.function_name
-  principal     = "apigateway.amazonaws.com"
-  source_arn    = "${aws_api_gateway_deployment.api_gateway_deployment.execution_arn}*"
-}
+# resource "aws_lambda_permission" "cups_codes_permission" {
+#   statement_id  = "AllowExecutionFromAPIGateway"
+#   action        = "lambda:InvokeFunction"
+#   function_name = aws_lambda_function.CUPS_CODES_UPLOAD.function_name
+#   principal     = "apigateway.amazonaws.com"
+#   source_arn    = "${aws_api_gateway_deployment.api_gateway_deployment.execution_arn}*"
+# }
