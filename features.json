@@ -1,0 +1,3809 @@
+[
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "OTHER HEALTH-RELATED AREAS"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "OTHER NON-HEALTH RELATED AREAS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "DOCTOR"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "NURSE"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "PHARMACIST"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "PSYCHOLOGIST"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "RESIDENT"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "RESEARCHER"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "SPECIALIST"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "MANAGEMENT AND ADMINISTRATION"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "ORAL HEALTH PROFESSIONAL"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:en"
+    },
+    "itemValue": {
+      "S": "STUDENT"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "OTRAS AREAS RELACIONADAS CON LA SALUD"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "OTRAS AREAS NO RELACIONADAS CON LA SALUD"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "DOCTOR"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "ENFERMERA"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "FARMACEUTICO"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "PSICOLOGO"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "RESIDENTE"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "INVESTIGADOR"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "ESPECIALISTA"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "GESTION Y ADMINISTRACION"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "PROFESIONAL DE SALUD ORAL"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "profesion:es"
+    },
+    "itemValue": {
+      "S": "ESTUDIANTE"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "OTHER"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "CARDIOLOGY"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "DERMATOLOGY"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "ENDOCRINOLOGY"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "GASTROENTEROLOGY"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "GERIATRICS"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "GYNECOLOGY"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "HEMATOLOGY"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "INFECTOLOGY"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "NEUROLOGY"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "ONCOLOGY"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "PEDIATRICS"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "PNEUMOLOGY"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "PSYCHIATRY"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "RHEUMATOLOGY"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "UROLOGY"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:en"
+    },
+    "itemValue": {
+      "S": "GENERAL SURGERY"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "OTRO"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "CARDIOLOGIA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "DERMATOLOGIA"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "ENDOCRINOLOGIA"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "GASTROENTEROLOGIA"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "GERIATRIA"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "GINECOLOGIA"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "HEMATOLOGIA"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "INFECTOLOGIA"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "NEUROLOGIA"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "ONCOLOGIA"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "PEDIATRIA"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "NEUMOLOGIA"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "PSIQUIATRIA"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "REUMATOLOGIA"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "UROLOGIA"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "especialidad:es"
+    },
+    "itemValue": {
+      "S": "CIRUJIA GENERAL"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:en"
+    },
+    "itemValue": {
+      "S": "Low"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:en"
+    },
+    "itemValue": {
+      "S": "Intermediate"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:en"
+    },
+    "itemValue": {
+      "S": "High"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:es"
+    },
+    "itemValue": {
+      "S": "Bajo"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:es"
+    },
+    "itemValue": {
+      "S": "Intermedio"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "complejidadprocedimiento:es"
+    },
+    "itemValue": {
+      "S": "Alto"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Grade 1"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Grade 2"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Grade 3"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Grade 4"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Grade 5"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:en"
+    },
+    "itemValue": {
+      "S": "Not applicable"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "Grado 1"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "Grado 2"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "Grado 3"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "Grado 4"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "Grado 5"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "claviendindo:es"
+    },
+    "itemValue": {
+      "S": "No aplica"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Other"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Orthopedic"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Gynecological Obstetric"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Breast"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Gastrointestinal"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Coloproctology"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Hepatobiliary"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Urology and Renal"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Vascular"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Cardiac Surgery"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Thoracic Surgery"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Head and Neck"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Plastic Surgery"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Transplant"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Neurosurgery"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Otorhinolaryngology"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Ophthalmology"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Abdominal Wall"
+    },
+    "itemKey": {
+      "S": "17"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:en"
+    },
+    "itemValue": {
+      "S": "Soft Tissue"
+    },
+    "itemKey": {
+      "S": "18"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Otra"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Ortopédico"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Ginecológico Obstétrico"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Seno"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Gastrointestinal"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Coloproctología"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Hepatobiliar"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Urología y Renal"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Vascular"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Cirugía Cardíaca"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Cirugía Torácica"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Cabeza y Cuello"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Cirugía Plástica"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Trasplante"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Neurocirugía"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Otorrinolaringología"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Oftalmología"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Pared Abdominal"
+    },
+    "itemKey": {
+      "S": "17"
+    }
+  },
+  {
+    "category": {
+      "S": "categoria_unica:es"
+    },
+    "itemValue": {
+      "S": "Tejido blando"
+    },
+    "itemKey": {
+      "S": "18"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Age"
+    },
+    "itemKey": {
+      "S": "edadmintervencion"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "ASA Score"
+    },
+    "itemKey": {
+      "S": "asascore"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Surgery Category"
+    },
+    "itemKey": {
+      "S": "categoria_unica"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Tobacco User"
+    },
+    "itemKey": {
+      "S": "tabaquismo"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "CUPS Code"
+    },
+    "itemKey": {
+      "S": "tipocx"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Diabetes Mellitus"
+    },
+    "itemKey": {
+      "S": "dm"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Surgical Approach Type"
+    },
+    "itemKey": {
+      "S": "tipodeabordajecx"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Procedure Complexity"
+    },
+    "itemKey": {
+      "S": "complejidadprocedimiento"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Chronic Obstructive Pulmonary Disease"
+    },
+    "itemKey": {
+      "S": "epoc"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Hypertension"
+    },
+    "itemKey": {
+      "S": "hta"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Heart Failure"
+    },
+    "itemKey": {
+      "S": "fallacardcron"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Chronic Kidney Disease"
+    },
+    "itemKey": {
+      "S": "erc"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Elective Procedure"
+    },
+    "itemKey": {
+      "S": "momntointerven"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "COVID-19"
+    },
+    "itemKey": {
+      "S": "diagcovid19"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Hemodynamic Instability Symptoms"
+    },
+    "itemKey": {
+      "S": "inestabilidadhemodinamica"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Dyslipidemia"
+    },
+    "itemKey": {
+      "S": "dislipidemia"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Thyroid Disorder"
+    },
+    "itemKey": {
+      "S": "transtiroideo"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Health System Affiliation Type"
+    },
+    "itemKey": {
+      "S": "afiliacion:essistema"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Arrhythmia"
+    },
+    "itemKey": {
+      "S": "arritmiacard"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Socioeconomic Status"
+    },
+    "itemKey": {
+      "S": "estratosocioecono"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Pre-Operative Cardiac Arrest"
+    },
+    "itemKey": {
+      "S": "parocardiacopreoperatorio"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Sex"
+    },
+    "itemKey": {
+      "S": "sexopte"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "COVID-19 within the last two weeks"
+    },
+    "itemKey": {
+      "S": "covid19menor2"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Smoked tobacco in the last 3 months"
+    },
+    "itemKey": {
+      "S": "mtabaco"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "Complete COVID vaccination scheme"
+    },
+    "itemKey": {
+      "S": "esquemavacu"
+    }
+  },
+  {
+    "category": {
+      "S": "features:en"
+    },
+    "itemValue": {
+      "S": "BMI"
+    },
+    "itemKey": {
+      "S": "imc"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Edad"
+    },
+    "itemKey": {
+      "S": "edadmintervencion"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Puntaje ASA"
+    },
+    "itemKey": {
+      "S": "asascore"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Categoría de la Cirugía"
+    },
+    "itemKey": {
+      "S": "categoria_unica"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Consumidor de Tabaco"
+    },
+    "itemKey": {
+      "S": "tabaquismo"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Código CUPS"
+    },
+    "itemKey": {
+      "S": "tipocx"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Diabetes Mellitus"
+    },
+    "itemKey": {
+      "S": "dm"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Tipo Abordaje Quirúrgico"
+    },
+    "itemKey": {
+      "S": "tipodeabordajecx"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Complejidad del Procedimiento"
+    },
+    "itemKey": {
+      "S": "complejidadprocedimiento"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Enfermedad Pulmonar Obstructiva Crónica"
+    },
+    "itemKey": {
+      "S": "epoc"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Hipertensión Arterial"
+    },
+    "itemKey": {
+      "S": "hta"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Falla Cardiaca"
+    },
+    "itemKey": {
+      "S": "fallacardcron"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Enfermedad Renal Crónica"
+    },
+    "itemKey": {
+      "S": "erc"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Procedimiento Electivo"
+    },
+    "itemKey": {
+      "S": "momntointerven"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "COVID-19"
+    },
+    "itemKey": {
+      "S": "diagcovid19"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Síntomas Inestabilidad Hemodinámica"
+    },
+    "itemKey": {
+      "S": "inestabilidadhemodinamica"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Dislipidemia"
+    },
+    "itemKey": {
+      "S": "dislipidemia"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Trastorno Tiroideo"
+    },
+    "itemKey": {
+      "S": "transtiroideo"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Tipo de afiliación al sistema de salud"
+    },
+    "itemKey": {
+      "S": "afiliacion:essistema"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Arritmia"
+    },
+    "itemKey": {
+      "S": "arritmiacard"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Estrato Socioeconómico"
+    },
+    "itemKey": {
+      "S": "estratosocioecono"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Paro Cardiaco Pre-Operatorio"
+    },
+    "itemKey": {
+      "S": "parocardiacopreoperatorio"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Sexo"
+    },
+    "itemKey": {
+      "S": "sexopte"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "COVID-19 hace menos de dos semanas"
+    },
+    "itemKey": {
+      "S": "covid19menor2"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Consumió tabaco en los últimos 3 meses"
+    },
+    "itemKey": {
+      "S": "mtabaco"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "Esquema de vacunación COVID completo"
+    },
+    "itemKey": {
+      "S": "esquemavacu"
+    }
+  },
+  {
+    "category": {
+      "S": "features:es"
+    },
+    "itemValue": {
+      "S": "IMC"
+    },
+    "itemKey": {
+      "S": "imc"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "None"
+    },
+    "itemKey": { "S": "0" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "Contributory"
+    },
+    "itemKey": { "S": "1" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "Subsidized"
+    },
+    "itemKey": { "S": "2" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "Special"
+    },
+    "itemKey": { "S": "3" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "Prepaid"
+    },
+    "itemKey": { "S": "4" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "Private"
+    },
+    "itemKey": { "S": "5" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "International Insurance"
+    },
+    "itemKey": { "S": "6" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:en"
+    },
+    "itemValue": {
+      "S": "SOAT"
+    },
+    "itemKey": { "S": "7" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Ninguno"
+    },
+    "itemKey": { "S": "0" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Contributivo"
+    },
+    "itemKey": { "S": "1" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Subsidiado"
+    },
+    "itemKey": { "S": "2" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Especial"
+    },
+    "itemKey": { "S": "3" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Prepagada"
+    },
+    "itemKey": { "S": "4" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Particular"
+    },
+    "itemKey": { "S": "5" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "Seguro internacional"
+    },
+    "itemKey": { "S": "6" }
+  },
+  {
+    "category": {
+      "S": "afiliacion:essistema:es"
+    },
+    "itemValue": {
+      "S": "SOAT"
+    },
+    "itemKey": { "S": "7" }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "Low-Low"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "Low"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "Medium-Low"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "Medium"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "Medium-High"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:en"
+    },
+    "itemValue": {
+      "S": "High"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Bajo-Bajo"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Bajo"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Medio-Bajo"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Medio"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Medio-Alto"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "estratosocioecono:es"
+    },
+    "itemValue": {
+      "S": "Alto"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Other"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Arteriovenous"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Biliary"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Gastric"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Intestinal"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Anal"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Colonic"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:en"
+    },
+    "itemValue": {
+      "S": "Bladder"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Otra"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Arteriovenosa"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Biliar"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Gástrica"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Intestinal"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Anal"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Colónica"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "fistula:es"
+    },
+    "itemValue": {
+      "S": "Vesical"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "itemsYesNo:en"
+    },
+    "itemValue": {
+      "S": "No"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "itemsYesNo:en"
+    },
+    "itemValue": {
+      "S": "Yes"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "itemsYesNo:es"
+    },
+    "itemValue": {
+      "S": "No"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "itemsYesNo:es"
+    },
+    "itemValue": {
+      "S": "Sí"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "sexopte"
+    },
+    "itemValue": {
+      "S": "Female"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "sexopte"
+    },
+    "itemValue": {
+      "S": "Male"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "sexopte"
+    },
+    "itemValue": {
+      "S": "Mujer"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "sexopte"
+    },
+    "itemValue": {
+      "S": "Hombre"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Other"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Open"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Video-assisted"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Endovascular"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Open/Video-assisted"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Open/Endovascular"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Robot-assisted"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Percutaneous"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:en"
+    },
+    "itemValue": {
+      "S": "Intravaginal"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Otro"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Abierta"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Video-asistido"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Endovascular"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Abierta/video-asistido"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Abierta/Endovascular"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Asistido por Robot"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Percutáneo"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "tipodeabordajecx:es"
+    },
+    "itemValue": {
+      "S": "Intravaginal"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "rol:en"
+    },
+    "itemValue": {
+      "S": "Lead Surgeon"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "rol:en"
+    },
+    "itemValue": {
+      "S": "Assistant"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "rol:es"
+    },
+    "itemValue": {
+      "S": "Cirujano Principal"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "rol:es"
+    },
+    "itemValue": {
+      "S": "Ayudante"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "I"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "II"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "III"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "IV"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "V"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "VI"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:en"
+    },
+    "itemValue": {
+      "S": "E"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "I"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "II"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "III"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "IV"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "V"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "VI"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "asascore:es"
+    },
+    "itemValue": {
+      "S": "E"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "FUNDACION VALLE DEL LILI (CALI)"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "FUNDACION SANTA FE DE BOGOTA (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL PABLO TOBON URIBE (MEDELLIN)"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL UNIVERSITARIO SAN VICENTE FUNDACION (MEDELLIN)"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL UNIVERSITARIO SAN IGNACIO (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA DEL OCCIDENTE (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA DEL COUNTRY (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA IMBANACO (CALI)"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL UNIVERSITARIO DE LA SAMARITANA (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA LAS AMERICAS (MEDELLIN)"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA MEDELLIN (MEDELLIN)"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA SHAIO (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "FUNDACION CARDIOINFANTIL (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA UNIVERSIDAD DE LA SABANA (CHIA, CUNDINAMARCA)"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL INTERNACIONAL DE COLOMBIA (BUCARAMANGA)"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "FUNDACION HOSPITAL SAN VICENTE DE PAUL (RIONEGRO)"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA PORTOAZUL (BARRANQUILLA)"
+    },
+    "itemKey": {
+      "S": "17"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "HOSPITAL UNIVERSITARIO DEPARTAMENTAL DE NARINO (PASTO)"
+    },
+    "itemKey": {
+      "S": "18"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA REINA SOFIA (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "19"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:es"
+    },
+    "itemValue": {
+      "S": "CLINICA LA COLINA (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "20"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "CLINICA LA COLINA (BOGOTA)"
+    },
+    "itemKey": {
+      "S": "20"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "MAYO CLINIC - ROCHESTER, MINNESOTA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "CLEVELAND CLINIC - CLEVELAND, OHIO"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "JOHNS HOPKINS HOSPITAL - BALTIMORE, MARYLAND"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "CEDARS-SINAI MEDICAL CENTER - LOS ANGELES, CALIFORNIA"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "UCLA MEDICAL CENTER - LOS ANGELES, CALIFORNIA"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "NEW YORK-PRESBYTERIAN HOSPITAL - NUEVA YORK, NUEVA YORK"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "MASSACHUSETTS GENERAL HOSPITAL - BOSTON, MASSACHUSETTS"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "UCSF HEALTH - SAN FRANCISCO, CALIFORNIA"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "NORTHWESTERN MEMORIAL HOSPITAL - CHICAGO, ILLINOIS"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "afiliacion:en"
+    },
+    "itemValue": {
+      "S": "HOUSTON METHODIST HOSPITAL - HOUSTON, TEXAS"
+    },
+    "itemKey": {
+      "S": "10"
+    }
+  },
+  {
+    "category": {
+      "S": "pais:es"
+    },
+    "itemValue": {
+      "S": "COLOMBIA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "pais:es"
+    },
+    "itemValue": {
+      "S": "ESTADOS UNIDOS"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "pais:en"
+    },
+    "itemValue": {
+      "S": "COLOMBIA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "pais:en"
+    },
+    "itemValue": {
+      "S": "UNITED STATES"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "BOGOTA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "MEDELLIN"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "CALI"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "BARRANQUILLA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "CARTAGENA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "CUCUTA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "SOLEDAD"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "IBAGUE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "BUCARAMANGA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "SOACHA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "SANTA MARTA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "VILLAVICENCIO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "BELLO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "PEREIRA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "VALLEDUPAR"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "MANIZALES"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "BUENAVENTURA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "PASTO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "MONTERIA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "NEIVA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "PALMIRA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "POPAYAN"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "SINCELEJO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "RIOHACHA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "ENVIGADO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "DOSQUEBRADAS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "FLORIDABLANCA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "TULUA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "YOPAL"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia"
+    },
+    "itemValue": {
+      "S": "GIRON"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "NEW YORK"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "LOS ANGELES"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "CHICAGO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "HOUSTON"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "PHOENIX"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "PHILADELPHIA"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "SAN ANTONIO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "SAN DIEGO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "DALLAS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "SAN JOSE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "AUSTIN"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "JACKSONVILLE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "FORT WORTH"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "COLUMBUS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "CHARLOTTE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "SAN FRANCISCO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "INDIANAPOLIS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "SEATTLE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "DENVER"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "WASHINGTON"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "BOSTON"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "EL PASO"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "DETROIT"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "NASHVILLE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "PORTLAND"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "MEMPHIS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "OKLAHOMA CITY"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "LAS VEGAS"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "LOUISVILLE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa"
+    },
+    "itemValue": {
+      "S": "BALTIMORE"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  }
+]

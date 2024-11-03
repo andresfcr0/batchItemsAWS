@@ -5,7 +5,7 @@ resource "aws_lambda_function" "CUPS_CODES_UPLOAD" {
   role             = aws_iam_role.iam_role_lambda.arn
   handler          = "handler.handler"
   source_code_hash = data.archive_file.cups_codes_file.output_base64sha256
-  runtime          = "nodejs16.x"
+  runtime          = "nodejs18.x"
 }
 
 # resource "aws_lambda_permission" "cups_codes_permission" {

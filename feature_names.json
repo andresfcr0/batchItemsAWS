@@ -1,6 +1,21 @@
 [
   {
     "category": {
+      "S": "afiliacion"
+    },
+    "values": {
+      "M": {
+        "en": {
+          "M": {}
+        },
+        "es": {
+          "M": {}
+        }
+      }
+    }
+  },
+  {
+    "category": {
       "S": "profesion"
     },
     "values": {
@@ -143,6 +158,9 @@
             },
             "15": {
               "S": "UROLOGY"
+            },
+            "16": {
+              "S": "GENERAL SURGERY"
             }
           }
         },
@@ -195,6 +213,9 @@
             },
             "15": {
               "S": "UROLOGIA"
+            },
+            "16": {
+              "S": "CIRUJIA GENERAL"
             }
           }
         }

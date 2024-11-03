@@ -4,12 +4,18 @@ import {
   AttributeValue,
 } from "@aws-sdk/client-dynamodb";
 
+const env = "DEV-B";
+// const env = "TEST";
 enum CUPS {
-  table_name = "DEV-B-MEDICAL-Core-CupsCodes",
+  table_name = `${env}-MEDICAL-Core-CupsCodes`,
 }
 
 enum FeatureNames {
-  table_name = "DEV-B-MEDICAL-Core-FeatureNames",
+  table_name = `${env}-MEDICAL-Core-FeatureNames`,
+}
+
+enum Features {
+  table_name = `${env}-MEDICAL-Core-Features`,
 }
 
 const headers = {
@@ -53,7 +59,7 @@ export class DAO {
     console.log({ counter, fromvalue, toUpload: puts.length });
   }
 
-  async uploadFeatures(items: Record<string, AttributeValue>[]) {
+  async uploadFeatureNames(items: Record<string, AttributeValue>[]) {
     const puts: WriteRequest[] = items.map((item) => {
       return {
         PutRequest: {
@@ -73,6 +79,35 @@ export class DAO {
         await this.service.batchWriteItem({
           RequestItems: {
             [FeatureNames.table_name]: value,
+          },
+        });
+      }
+    }
+    console.log({ counter, fromvalue, toUpload: puts.length });
+  }
+
+  async uploadFeatures(items: Record<string, AttributeValue>[]) {
+    const puts: WriteRequest[] = items.map((item) => {
+      return {
+        PutRequest: {
+          Item: item,
+        },
+      };
+    });
+
+    let counter = 0;
+    let fromvalue = 0;
+    console.log({ counter, fromvalue, toUpload: puts.length });
+    while (counter < puts.length) {
+      fromvalue = counter;
+      counter += 25;
+      for (let index = fromvalue; index < counter; index++) {
+        const value = puts.slice(fromvalue, counter);
+        console.log(value[0]);
+        console.log(value[24]);
+        await this.service.batchWriteItem({
+          RequestItems: {
+            [Features.table_name]: value,
           },
         });
       }

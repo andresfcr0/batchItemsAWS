@@ -14,8 +14,17 @@ export async function handler(
     const feature = readFileSync("feature_names.json", "utf8");
     const names = JSON.parse(feature);
 
-    await dao.uploadFeatures(names);
-    await dao.uploadCups(codes);
+    const feat = readFileSync("features.json", "utf8");
+    const features = JSON.parse(feat);
+
+    console.log(features[0]);
+    console.log(features[1]);
+    console.log(features[2]);
+    console.log(features[3]);
+
+    // await dao.uploadFeatureNames(names);
+    // await dao.uploadCups(codes);
+    await dao.uploadFeatures(features);
 
     return successResponse({ ok: "ok" });
   } catch (error: any) {
