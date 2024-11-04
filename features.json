@@ -1448,7 +1448,7 @@
       "S": "Health System Affiliation Type"
     },
     "itemKey": {
-      "S": "afiliacion:essistema"
+      "S": "afiliacionsistema"
     }
   },
   {
@@ -1734,7 +1734,7 @@
       "S": "Tipo de afiliación al sistema de salud"
     },
     "itemKey": {
-      "S": "afiliacion:essistema"
+      "S": "afiliacionsistema"
     }
   },
   {
@@ -1827,7 +1827,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "None"
@@ -1836,7 +1836,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "Contributory"
@@ -1845,7 +1845,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "Subsidized"
@@ -1854,7 +1854,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "Special"
@@ -1863,7 +1863,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "Prepaid"
@@ -1872,7 +1872,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "Private"
@@ -1881,7 +1881,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "International Insurance"
@@ -1890,7 +1890,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:en"
+      "S": "afiliacionsistema:en"
     },
     "itemValue": {
       "S": "SOAT"
@@ -1899,7 +1899,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Ninguno"
@@ -1908,7 +1908,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Contributivo"
@@ -1917,7 +1917,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Subsidiado"
@@ -1926,7 +1926,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Especial"
@@ -1935,7 +1935,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Prepagada"
@@ -1944,7 +1944,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Particular"
@@ -1953,7 +1953,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "Seguro internacional"
@@ -1962,7 +1962,7 @@
   },
   {
     "category": {
-      "S": "afiliacion:essistema:es"
+      "S": "afiliacionsistema:es"
     },
     "itemValue": {
       "S": "SOAT"
@@ -3148,7 +3148,7 @@
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "BOGOTA"
@@ -3159,326 +3159,326 @@
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "MEDELLIN"
     },
     "itemKey": {
-      "S": "1"
+      "S": "2"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "CALI"
     },
     "itemKey": {
-      "S": "1"
+      "S": "3"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "BARRANQUILLA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "4"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "CARTAGENA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "5"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "CUCUTA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "6"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "SOLEDAD"
     },
     "itemKey": {
-      "S": "1"
+      "S": "7"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "IBAGUE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "8"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "BUCARAMANGA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "9"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "SOACHA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "0"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "SANTA MARTA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "11"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "VILLAVICENCIO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "12"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "BELLO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "13"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "PEREIRA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "14"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "VALLEDUPAR"
     },
     "itemKey": {
-      "S": "1"
+      "S": "15"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "MANIZALES"
     },
     "itemKey": {
-      "S": "1"
+      "S": "16"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "BUENAVENTURA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "17"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "PASTO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "18"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "MONTERIA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "19"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "NEIVA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "20"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "PALMIRA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "21"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "POPAYAN"
     },
     "itemKey": {
-      "S": "1"
+      "S": "22"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "SINCELEJO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "23"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "RIOHACHA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "24"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "ENVIGADO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "25"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "DOSQUEBRADAS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "26"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "FLORIDABLANCA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "27"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "TULUA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "28"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "YOPAL"
     },
     "itemKey": {
-      "S": "1"
+      "S": "29"
     }
   },
   {
     "category": {
-      "S": "ciudades:colombia"
+      "S": "ciudades:colombia:es"
     },
     "itemValue": {
       "S": "GIRON"
     },
     "itemKey": {
-      "S": "1"
+      "S": "30"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "NEW YORK"
@@ -3489,321 +3489,981 @@
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "LOS ANGELES"
     },
     "itemKey": {
-      "S": "1"
+      "S": "2"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "CHICAGO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "3"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "HOUSTON"
     },
     "itemKey": {
-      "S": "1"
+      "S": "4"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "PHOENIX"
     },
     "itemKey": {
-      "S": "1"
+      "S": "5"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "PHILADELPHIA"
     },
     "itemKey": {
-      "S": "1"
+      "S": "6"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "SAN ANTONIO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "7"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "SAN DIEGO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "8"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "DALLAS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "9"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "SAN JOSE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "0"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "AUSTIN"
     },
     "itemKey": {
-      "S": "1"
+      "S": "11"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "JACKSONVILLE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "12"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "FORT WORTH"
     },
     "itemKey": {
-      "S": "1"
+      "S": "13"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "COLUMBUS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "14"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "CHARLOTTE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "15"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "SAN FRANCISCO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "16"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "INDIANAPOLIS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "17"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "SEATTLE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "18"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "DENVER"
     },
     "itemKey": {
-      "S": "1"
+      "S": "19"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "WASHINGTON"
     },
     "itemKey": {
-      "S": "1"
+      "S": "20"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "BOSTON"
     },
     "itemKey": {
-      "S": "1"
+      "S": "21"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "EL PASO"
     },
     "itemKey": {
-      "S": "1"
+      "S": "22"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "DETROIT"
     },
     "itemKey": {
-      "S": "1"
+      "S": "23"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "NASHVILLE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "24"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "PORTLAND"
     },
     "itemKey": {
-      "S": "1"
+      "S": "25"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "MEMPHIS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "26"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "OKLAHOMA CITY"
     },
     "itemKey": {
-      "S": "1"
+      "S": "27"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "LAS VEGAS"
     },
     "itemKey": {
-      "S": "1"
+      "S": "28"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "LOUISVILLE"
     },
     "itemKey": {
-      "S": "1"
+      "S": "29"
     }
   },
   {
     "category": {
-      "S": "ciudades:usa"
+      "S": "ciudades:usa:es"
     },
     "itemValue": {
       "S": "BALTIMORE"
     },
     "itemKey": {
+      "S": "30"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "BOGOTA"
+    },
+    "itemKey": {
       "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "MEDELLIN"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "CALI"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "BARRANQUILLA"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "CARTAGENA"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "CUCUTA"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "SOLEDAD"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "IBAGUE"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "BUCARAMANGA"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "SOACHA"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "SANTA MARTA"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "VILLAVICENCIO"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "BELLO"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "PEREIRA"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "VALLEDUPAR"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "MANIZALES"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "BUENAVENTURA"
+    },
+    "itemKey": {
+      "S": "17"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "PASTO"
+    },
+    "itemKey": {
+      "S": "18"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "MONTERIA"
+    },
+    "itemKey": {
+      "S": "19"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "NEIVA"
+    },
+    "itemKey": {
+      "S": "20"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "PALMIRA"
+    },
+    "itemKey": {
+      "S": "21"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "POPAYAN"
+    },
+    "itemKey": {
+      "S": "22"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "SINCELEJO"
+    },
+    "itemKey": {
+      "S": "23"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "RIOHACHA"
+    },
+    "itemKey": {
+      "S": "24"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "ENVIGADO"
+    },
+    "itemKey": {
+      "S": "25"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "DOSQUEBRADAS"
+    },
+    "itemKey": {
+      "S": "26"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "FLORIDABLANCA"
+    },
+    "itemKey": {
+      "S": "27"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "TULUA"
+    },
+    "itemKey": {
+      "S": "28"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "YOPAL"
+    },
+    "itemKey": {
+      "S": "29"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:colombia:en"
+    },
+    "itemValue": {
+      "S": "GIRON"
+    },
+    "itemKey": {
+      "S": "30"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "NEW YORK"
+    },
+    "itemKey": {
+      "S": "1"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "LOS ANGELES"
+    },
+    "itemKey": {
+      "S": "2"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "CHICAGO"
+    },
+    "itemKey": {
+      "S": "3"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "HOUSTON"
+    },
+    "itemKey": {
+      "S": "4"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "PHOENIX"
+    },
+    "itemKey": {
+      "S": "5"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "PHILADELPHIA"
+    },
+    "itemKey": {
+      "S": "6"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "SAN ANTONIO"
+    },
+    "itemKey": {
+      "S": "7"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "SAN DIEGO"
+    },
+    "itemKey": {
+      "S": "8"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "DALLAS"
+    },
+    "itemKey": {
+      "S": "9"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "SAN JOSE"
+    },
+    "itemKey": {
+      "S": "0"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "AUSTIN"
+    },
+    "itemKey": {
+      "S": "11"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "JACKSONVILLE"
+    },
+    "itemKey": {
+      "S": "12"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "FORT WORTH"
+    },
+    "itemKey": {
+      "S": "13"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "COLUMBUS"
+    },
+    "itemKey": {
+      "S": "14"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "CHARLOTTE"
+    },
+    "itemKey": {
+      "S": "15"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "SAN FRANCISCO"
+    },
+    "itemKey": {
+      "S": "16"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "INDIANAPOLIS"
+    },
+    "itemKey": {
+      "S": "17"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "SEATTLE"
+    },
+    "itemKey": {
+      "S": "18"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "DENVER"
+    },
+    "itemKey": {
+      "S": "19"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "WASHINGTON"
+    },
+    "itemKey": {
+      "S": "20"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "BOSTON"
+    },
+    "itemKey": {
+      "S": "21"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "EL PASO"
+    },
+    "itemKey": {
+      "S": "22"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "DETROIT"
+    },
+    "itemKey": {
+      "S": "23"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "NASHVILLE"
+    },
+    "itemKey": {
+      "S": "24"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "PORTLAND"
+    },
+    "itemKey": {
+      "S": "25"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "MEMPHIS"
+    },
+    "itemKey": {
+      "S": "26"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "OKLAHOMA CITY"
+    },
+    "itemKey": {
+      "S": "27"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "LAS VEGAS"
+    },
+    "itemKey": {
+      "S": "28"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "LOUISVILLE"
+    },
+    "itemKey": {
+      "S": "29"
+    }
+  },
+  {
+    "category": {
+      "S": "ciudades:usa:en"
+    },
+    "itemValue": {
+      "S": "BALTIMORE"
+    },
+    "itemKey": {
+      "S": "30"
     }
   }
 ]
